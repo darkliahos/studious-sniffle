@@ -1,0 +1,15 @@
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\bin\Debug\net6.0\Innovation-test.exe
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\bin\Debug\net6.0\Innovation-test.deps.json
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\bin\Debug\net6.0\Innovation-test.runtimeconfig.json
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\bin\Debug\net6.0\Innovation-test.dll
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\bin\Debug\net6.0\Innovation-test.pdb
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.AssemblyInfo.cs
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.dll
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\refint\Innovation-test.dll
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.pdb
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\Innovation-test.genruntimeconfig.cache
+C:\Users\georg\source\repos\Innovation-test\Innovation-test\obj\Debug\net6.0\ref\Innovation-test.dll
